@@ -1,0 +1,80 @@
+{
+  "sec_details": [
+    {
+      "sec_id": "a708d179f5c74a58a9a166923eccd442",
+      "sec_name": { "1": "Section - 1" },
+      "sec_questions": [
+        {
+          "que": {
+            "1": {
+              "q_option": [ "16", "8", "7", "32" ],
+              "q_string": "It takes 2.56 \u00d710<sup>\u20133</sup> equivalents of KOH to neutralize 0.125 g H<sub>2</sub>XO<sub>4</sub>. The number neutrons in x is"
+            }
+          },
+          "order_sign": [ 0, 0 ],
+          "max_marks": 2,
+          "qtmpl": 1,
+          "qid": "9b7e579249a54fdfa6b0513b2d4b2ff5",
+          "neg_marks": 1
+        },
+        {
+          "que": {
+            "1": {
+              "q_option": [ "100/3 ml", "500/3 ml", "300/5 ml", "None" ],
+              "q_string": "0.1 lit of 0.01 M KMnO<sub>4</sub> oxidized 100 ml H<sub>2</sub>O<sub>2</sub> in acidic medium. Volume of same KMnO<sub>4</sub> required in alkaline medium to oxidize 0.1 lit of same H<sub>2</sub>O<sub>2</sub> will be (Mn changes to Mn<sup>+2</sup> in acidic medium and MnO<sub>2</sub> in alkaline medium)"
+            }
+          },
+          "order_sign": [ 1, 1 ],
+          "max_marks": 2,
+          "qtmpl": 1,
+          "qid": "7dad1d4999e9427ab4d1a11f6b251acf",
+          "neg_marks": 1
+        },
+        {
+          "que": {
+            "1": {
+              "q_option": [ "5", "3", "7", "10" ],
+              "q_string": "The hydrated salt Na<sub>2</sub>SO<sub>4</sub>. nH<sub>2</sub>O, undergoes 55.9% loss in weight on heating and becomes anhydrous. The value of n will be"
+            }
+          },
+          "order_sign": [ 2, 2 ],
+          "max_marks": 2,
+          "qtmpl": 1,
+          "qid": "1de2b562b7ea4387be10d852f3e190fc",
+          "neg_marks": 1
+        },
+        {
+          "que": {
+            "1": {
+              "q_option": [ "1 mole", "0.45 mole", "0.24 mole", "0.25 mole" ],
+              "q_string": "8 g of sulphur is burnt to form SO<sub>2</sub> which is oxidized by Cl<sub>2</sub> water. The solution is treated with BaCl<sub>2</sub> solution. The amount of BaSO<sub>4</sub> precipitated is"
+            }
+          },
+          "order_sign": [ 3, 3 ],
+          "max_marks": 2,
+          "qtmpl": 1,
+          "qid": "24ba7f6ba3b94802a6b8e431b7d9755b",
+          "neg_marks": 1
+        },
+        {
+          "que": {
+            "1": {
+              "q_option": [ "15.2%", "32.1%", "21.8%", "11.07%" ],
+              "q_string": "A 10.0 g sample of a mixture of calcium chloride and sodium chloride is treated with Na<sub>2</sub>CO<sub>3</sub> to precipitate the calcium as calcium carbonate. This CaCO<sub>3</sub> is heated to convert all the calcium to CaO and the final mass of CaO is 1.62 gms. The % by mass of CaO is 1.62 gms. The % by mass of CaCl<sub>2</sub> in the original mixture is"
+            }
+          },
+          "order_sign": [ 4, 4 ],
+          "max_marks": 2,
+          "qtmpl": 1,
+          "qid": "fc6d55e8f62040cbbea81cbe584ef5d4",
+          "neg_marks": 1
+        }
+      ],
+      "shuffling": true
+    }
+  ],
+  "test_name": "Mock Test 1",
+  "test_id": "c481afef3ecf4e18a47cdcc9132516ac",
+  "sec_timing": false,
+  "test_time": 3600
+}
