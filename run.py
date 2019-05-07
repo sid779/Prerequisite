@@ -13,8 +13,8 @@ size = (width,height)
 fourcc = cv2.VideoWriter_fourcc(*'mp4v')
 out = cv2.VideoWriter('final_output.mp4', fourcc, 24, size) 
 polly_client = boto3.Session(
-                        aws_access_key_id="AKIATWVLWG7AJJJAY77Z",                     
-            aws_secret_access_key="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",
+                        aws_access_key_id="Access key",                     
+            aws_secret_access_key="secret key",
             region_name='ap-south-1').client('polly')
 def text_wrap(text, font, max_width):
     lines = []
