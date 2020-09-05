@@ -1,5 +1,5 @@
 # Videorator
-It creates videos automatically using json data dump.
+It creates videos automatically using json data dump. 
 ## Input JSON:
 ``` 
  {
